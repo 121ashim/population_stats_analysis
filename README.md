@@ -47,7 +47,7 @@ Python
 
 Pandas – data cleaning, filtering, grouping, aggregation
 
-Matplotlib – data visualization
+ Power BI and Matplotlib – data visualization
 
 📊 Analysis Performed
 
