@@ -3,6 +3,14 @@ Project Overview
 This project focuses on exploratory data analysis (EDA) of the World Happiness dataset using Python, Pandas, and Matplotlib.
 The goal is to understand how different socio-economic factors influence happiness across countries and regions.
 
+ 🛠 Tools & Libraries Used
+
+Python
+
+Pandas – data cleaning, filtering, grouping, aggregation
+
+Power BI and Matplotlib – data visualization
+ 
  Objectives
 
 Analyze global happiness trends
@@ -41,13 +49,6 @@ Generosity
 
 Dystopia Residual
 
-🛠 Tools & Libraries Used
-
-Python
-
-Pandas – data cleaning, filtering, grouping, aggregation
-
- Power BI and Matplotlib – data visualization
 
 📊 Analysis Performed
 
