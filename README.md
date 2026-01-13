@@ -1,4 +1,4 @@
-Project Overview
+Project Overview:
 
 This project focuses on exploratory data analysis (EDA) of the World Happiness dataset using Python, Pandas, and Matplotlib.
 The goal is to understand how different socio-economic factors influence happiness across countries and regions.
