@@ -11,7 +11,7 @@ Pandas – data cleaning, filtering, grouping, aggregation
 
 Power BI and Matplotlib – data visualization
  
- Objectives
+ Objectives:
 
 Analyze global happiness trends
 
